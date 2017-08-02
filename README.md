@@ -43,6 +43,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/length
 
 <img src="http://imgur.com/6qYQki1l.png" />
 
+## Set as default
+
+To set a template as default and start using it as soon as Inkscape is opened you have to:
+
+1. Copy the template to ~/.config/inkscape/templates
+2. Rename the template as "default.svg"
+
+The default template will be opened in Inkscape every time you create a new document.
+
 ## How to contribute
 
 Patches, fixes and new templates are welcome.
